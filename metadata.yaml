@@ -1,0 +1,35 @@
+_repo: Columbus--De-ontdekker-van-Amerika_18066
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Geraets, J.H., Jr.
+    gutenberg_agent_id: '7785'
+    url: http://www.gutenberg.org/2009/agents/7785
+covers:
+- cover_type: archival
+  image_path: 18066-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Abbott, John S. C. (John Stevens Cabot)
+    aliases:
+    - John S. C. (John Stevens Cabot) Abbott
+    - Abbott, John Stevens Cabot
+    birthdate: 1805
+    deathdate: 1877
+    gutenberg_agent_id: '1298'
+    url: http://www.gutenberg.org/2009/agents/1298
+    wikipedia: http://en.wikipedia.org/wiki/John_Stevens_Cabot_Abbott
+description: ''
+gutenberg_issued: '2006-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18066'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Columbus, Christopher'
+- !lcc 'E011'
+title: 'Columbus: De ontdekker van Amerika'
+url: http://www.gutenberg.org/ebooks/18066
